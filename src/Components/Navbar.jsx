@@ -11,7 +11,7 @@ function Navbar() {
     </div>
     <div className="m-8 flex items-center justify-center gap-4 text-2xl"> 
       
-    <a  href="https://github.com/Chaitanya-chute" target="_blank" >
+    <a  href="https://github.com/ChaitanyaChute" target="_blank" >
     <FaGithub />
        </a>
      
